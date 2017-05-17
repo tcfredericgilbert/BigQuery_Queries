@@ -1,3 +1,6 @@
+## https://bigquery.cloud.google.com/savedquery/592844875481:c76b64f7c951469f98c2ca24e2354a9d
+
+
 // Title: DFP_ActivityGroup_LAEvents_v1
 // Description: DFP_ActivityGroup_LAEvents_v1
 
